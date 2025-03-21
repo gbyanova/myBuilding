@@ -1,4 +1,9 @@
 .bottomBar {
     color: var(--light-color);
     text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+
+.brand {
+    font-weight: bold;
 }
