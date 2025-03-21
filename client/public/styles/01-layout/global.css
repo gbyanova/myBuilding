@@ -1,0 +1,11 @@
+.application {
+    width: 100vw;
+    height: 100vh;
+
+    background-color: var(--dark-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    padding: 2em;
+}

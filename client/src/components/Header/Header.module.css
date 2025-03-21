@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    color: var(--light-color);
+    text-transform: uppercase;
+
+}
+
+.menuItem {
+    margin-left: 2em;
+}

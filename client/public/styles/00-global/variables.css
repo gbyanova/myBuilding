@@ -1,0 +1,17 @@
+:root {
+    --font-base-size: 12px;
+    --font-line-height: 1.5;
+    --base-spacing: 1.5em;
+    --body-font-family: "Lato", sans-serif;
+    --headings-font-hamily: "Montserrat", sans-serif;
+
+    --font-color: #333;
+    --accent-color: #0277A8;
+    --dark-color: #1C2120;
+    --light-color: #ffffff;
+
+    --border: 1px solid rgba(var(--accent-color), 1);
+
+    --box-shadow: 0 0 1em 0.2em rgba(0, 0, 0, 0.05);
+    --text-shadow: 0 0 1em 0.2em rgba(0, 0, 0, 0.5);
+}

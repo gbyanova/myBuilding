@@ -1,7 +1,9 @@
+import styles from './Footer.module.css';
+
 export default function Footer() {
     return (
-        <p className="bottom-bar">
-            <span>All Rights Reserved</span>
+        <p className={styles.bottomBar}>
+            <span>Всички права запазени</span>
             <span> | </span>
             <span>2025</span>
             <span> | </span>
