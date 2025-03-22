@@ -1,41 +1,27 @@
 @media only screen and (width <=480px) {
     :root {
-        --font-base-size: 12px;
+        --font-base-size: 10px;
     }
-
 
 }
 
 @media only screen and (width > 480px) {
     :root {
-        --font-base-size: 14px;
+        --font-base-size: 12px;
     }
-
 
 }
 
 @media only screen and (width > 768px) {
     :root {
-        --font-base-size: 16px;
+        --font-base-size: 14px;
     }
-
 
 }
 
 @media only screen and (width > 1024px) {
     :root {
         --font-base-size: 16px;
-    }
-
-    .section-wraper {
-        max-width: 1200px;
-    }
-
-}
-
-@media only screen and (width > 1280px) {
-    :root {
-        --font-base-size: 18px;
     }
 
 }
